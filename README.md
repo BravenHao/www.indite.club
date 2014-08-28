@@ -1,4 +1,4 @@
 www.indite.clube
 ================
 
-A free fantacy world for writer,painer and coser
+A free fantacy web world for writer,painter and producer.
